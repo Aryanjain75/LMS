@@ -1,3 +1,4 @@
+"use client";
 import React, { useState } from "react";
 import SchoolIcon from "@mui/icons-material/School";
 import VisibilityIcon from "@mui/icons-material/Visibility";

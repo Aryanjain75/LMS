@@ -1,3 +1,4 @@
+"use client";
 import React, { useState, useEffect } from "react";
 import SchoolIcon from "@mui/icons-material/School";
 import MarkEmailReadIcon from "@mui/icons-material/MarkEmailRead";

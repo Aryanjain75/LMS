@@ -1,3 +1,4 @@
+"use client";
 import React, { useEffect, useRef, useState } from "react";
 import {
   MdAutoAwesome,
@@ -60,7 +61,7 @@ const initialMessages = [
     time: "10:45 AM",
     parts: [
       <>
-        That's a good start, Alex. Based on our source material regarding{" "}
+        That&apos;s a good start, Alex. Based on our source material regarding{" "}
         <strong>Optimization Techniques</strong>, how would you handle a scenario where the model
         still produces inconsistent formatting even with 3 examples?
       </>,
