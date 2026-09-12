@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-  ],
+, "app/pricing/page.jsx", "app/solutions/page.jsx", "app/features/page.jsx", "src/LandingPage.jsx"  ],
   "exclude": ["node_modules"]
 }
